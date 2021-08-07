@@ -1,0 +1,29 @@
+{
+  "name": "sorting-visualizer",
+  "version": "1.0.0",
+  "description": "Sorting Visualizer project",
+  "main": "index.js",
+  "scripts": {
+    "test": "none",
+    "scss": "node-sass --watch scss/styles.scss -o scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthSalad/Sorting-Visualizer.git"
+  },
+  "keywords": [
+    "Sorting",
+    "Visualizer",
+    "js"
+  ],
+  "author": "darthsalad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthSalad/Sorting-Visualizer/issues"
+  },
+  "homepage": "https://github.com/DarthSalad/Sorting-Visualizer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
